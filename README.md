@@ -1,4 +1,4 @@
 scrollAnimator
 ==============
 
-Simple scroll animation tool
+Simple scroll animation plugin for jQuery.
